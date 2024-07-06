@@ -1,156 +1,222 @@
 [
   {
     "name": "Barquisimeto",
-    "latitude": 10.0678,
-    "longitude": -69.3228,
+    "coordinates": [
+      -69.3228,
+      10.0678
+    ],
     "dateVisited": "2023-05-15",
-    "impressions": "Beautiful city with lots to explore. Visit the downtown area and try local cuisine."
+    "impressions": "Beautiful city with lots to explore.",
+    "suggestions": "Visit the downtown area and try local cuisine."
   },
   {
     "name": "Mérida",
-    "latitude": 8.6305,
-    "longitude": -71.1565,
+    "coordinates": [
+      -71.1565,
+      8.6305
+    ],
     "dateVisited": "2023-07-22",
-    "impressions": "Busy city with iconic landmarks. Take a ferry ride to see the Statue of Liberty up close."
+    "impressions": "Busy city with iconic landmarks.",
+    "suggestions": "Take a ferry ride to see the Statue of Liberty up close."
   },
   {
     "name": "Machiques",
-    "latitude": 10.0657,
-    "longitude": -72.5478,
+    "coordinates": [
+      -72.5478,
+      10.0657
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Maracaibo",
-    "latitude": 10.6549,
-    "longitude": -71.6373,
+    "coordinates": [
+      -71.6373,
+      10.6549
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "San Cristobal",
-    "latitude": 7.7784,
-    "longitude": -72.2269,
+    "coordinates": [
+      -72.2269,
+      7.7784
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Cucuta",
-    "latitude": 7.8942,
-    "longitude": -72.5037,
+    "coordinates": [
+      -72.5037,
+      7.8942
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Bogotá",
-    "latitude": 4.711,
-    "longitude": -74.0721,
+    "coordinates": [
+      -74.0721,
+      4.711
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Cali",
-    "latitude": 3.4516,
-    "longitude": -76.532,
+    "coordinates": [
+      -76.532,
+      3.4516
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Quito",
-    "latitude": -0.1807,
-    "longitude": -78.4678,
+    "coordinates": [
+      -78.4678,
+      -0.1807
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Guayaquil",
-    "latitude": -2.1709,
-    "longitude": -79.9224,
+    "coordinates": [
+      -79.9224,
+      -2.1709
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Manta",
-    "latitude": -0.9677,
-    "longitude": -80.7082,
+    "coordinates": [
+      -80.7082,
+      -0.9677
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Quilotoa",
-    "latitude": -0.8522,
-    "longitude": -78.9293,
+    "coordinates": [
+      -78.9293,
+      -0.8522
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Madrid",
-    "latitude": 40.4165,
-    "longitude": -3.7026,
+    "coordinates": [
+      -3.7026,
+      40.4165
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "A Coruña",
-    "latitude": 43.3623,
-    "longitude": -8.4115,
+    "coordinates": [
+      -8.4115,
+      43.3623
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Santiago de Compostela",
-    "latitude": 42.8782,
-    "longitude": -8.5448,
+    "coordinates": [
+      -8.5448,
+      42.8782
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Viena",
-    "latitude": 48.2082,
-    "longitude": 16.3738,
+    "coordinates": [
+      16.3738,
+      48.2082
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Freiberg",
-    "latitude": 50.9183,
-    "longitude": 13.3417,
+    "coordinates": [
+      13.3417,
+      50.9183
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Praga",
-    "latitude": 50.088,
-    "longitude": 14.4208,
+    "coordinates": [
+      14.4208,
+      50.088
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Valença",
-    "latitude": 41.9443,
-    "longitude": -8.641,
+    "coordinates": [
+      -8.641,
+      41.9443
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Caracas",
-    "latitude": 10.4806,
-    "longitude": -66.9036,
+    "coordinates": [
+      -66.9036,
+      10.4806
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Valencia",
-    "latitude": 10.162,
-    "longitude": -68.0076,
+    "coordinates": [
+      -68.0076,
+      10.162
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   },
   {
     "name": "Yaritagua",
-    "latitude": 10.0784,
-    "longitude": -69.1403,
+    "coordinates": [
+      -69.1403,
+      10.0784
+    ],
     "dateVisited": "2023-10-10",
-    "impressions": "Historical city with rich cultural heritage. Visit the museums and take a walk along the Thames River."
+    "impressions": "Historical city with rich cultural heritage.",
+    "suggestions": "Visit the museums and take a walk along the Thames River."
   }
 ]
