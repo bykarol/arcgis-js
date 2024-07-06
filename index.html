@@ -11,33 +11,52 @@
 </head>
 
 <body>
+  <!-- Navigation Bar -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">MyTravelLog</a>
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">See Map</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#addCityForm">Add a new place</a>
+      </li>
+    </ul>
+  </nav>
   <div class="container">
-    <h1 class="my-4 text-center">My Travel Log</h1>
-    <div id="mapView" class="mb-4"></div>
-    <div id="cityForm" class="card p-4">
-      <h2 class="card-title">Add a City</h2>
-      <form id="addCityForm">
-        <div class="form-group">
-          <label for="cityName">City Name:</label>
-          <input type="text" class="form-control" id="cityName" name="cityName" required>
+    <h1>My Travel Log</h1>
+    <div class="row">
+      <div id="mapView" class="col-lg-8 col-md-12 mb-4"></div>
+
+      <div id="cityForm" class="col-lg-4 col-md-12">
+        <div class="card p-4">
+          <h2 class="card-title">Add a City</h2>
+          <form id="addCityForm">
+            <div class="form-group">
+              <label for="cityName">City Name:</label>
+              <input type="text" class="form-control" id="cityName" name="cityName" required>
+            </div>
+            <div class="form-group">
+              <label for="visitDate">Date Visited:</label>
+              <input type="date" class="form-control" id="visitDate" name="visitDate" required>
+            </div>
+            <div class="form-group">
+              <label for="impressions">Impressions:</label>
+              <textarea class="form-control" id="impressions" name="impressions" required></textarea>
+            </div>
+            <div class="form-group">
+              <label for="suggestions">Suggestions:</label>
+              <textarea class="form-control" id="suggestions" name="suggestions"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Add City</button>
+          </form>
         </div>
-        <div class="form-group">
-          <label for="visitDate">Date Visited:</label>
-          <input type="date" class="form-control" id="visitDate" name="visitDate" required>
-        </div>
-        <div class="form-group">
-          <label for="impressions">Impressions:</label>
-          <textarea class="form-control" id="impressions" name="impressions" required></textarea>
-        </div>
-        <div class="form-group">
-          <label for="suggestions">Suggestions:</label>
-          <textarea class="form-control" id="suggestions" name="suggestions"></textarea>
-        </div>
-        <button type="submit" class="btn btn-primary">Add City</button>
-      </form>
+      </div>
     </div>
   </div>
+  <!-- Include custom JavaScript -->
   <script src="app.js"></script>
 </body>
+
 
 </html>

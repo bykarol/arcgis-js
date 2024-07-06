@@ -17,3 +17,7 @@ body {
   max-width: 600px;
   margin: 0 auto;
 }
+
+.esri-ui .calcite-theme-light {
+  margin-bottom: 4rem;
+}
