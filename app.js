@@ -54,11 +54,10 @@ require([
 
   cityForm.addEventListener('submit', (event) => {
     event.preventDefault();
-
-    const cityName = document.getElementById('cityName').value;
-    const visitDate = document.getElementById('visitDate').value;
-    const impressions = document.getElementById('impressions').value;
-    const suggestions = document.getElementById('suggestions').value;
+    const cityName = event.target['cityName'].value;
+    const visitDate = event.target['visitDate'].value;
+    const impressions = event.target['impressions'].value;
+    const suggestions = event.target['suggestions'].value;
 
     // Geocoding the name of the city to obtain its coordinates
     locator.addressToLocations({
